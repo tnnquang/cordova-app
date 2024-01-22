@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "./test-cordova.keystore",
+            "storePassword": "Quangkkk",
+            "alias": "testcordovaalias",
+            "password" : "Quangkkk",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "./test-cordova.keystore",
+            "storePassword": "Quangkkk",
+            "alias": "testcordovaalias",
+            "password" : "Quangkkk",
+            "keystoreType": "jks"
+        }
+    }
+}
